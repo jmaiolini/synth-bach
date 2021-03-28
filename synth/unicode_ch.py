@@ -1,0 +1,10 @@
+#unicode characters to display synth (all bold lines)
+vline = '\u2503'
+hline = '\u2501'
+tlcorner = '\u250F'
+trcorner = '\u2513'
+blcorner = '\u2517'
+brcorner = '\u251B'
+toptree = '\u2533'
+bottree = '\u253B'
+block = '\u2588'
